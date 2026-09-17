@@ -19,8 +19,8 @@
 
 - 📫 How to reach me: I have an email that is a com, with my name, at the repo's name.
 
-- ⚡ Fun fact: I am an avid fan of TTRPGs (including, but not limited to, Dungeons & Dragons), and have run games in them for small groups since I was in junior highschool, which means I have been running games for a lot longer than I have not!
+- ⚡ Fun fact: I am an avid fan of TTRPGs (including, but not limited to, Dungeons & Dragons), and have run games in them for small groups since I was in junior highschool (about 12 years old, give or take). This means I have been running games for a _lot_ longer than I have not!
 
-- 📖 I am also an aspiring writer. However, like a lot of aspiring writers, I haven't written a whole lot lately. Hopwfully this will change in the very near future with some ideas I have!!
+- 📖 I am also an aspiring writer. However, I will go more into that when I finally start writing again!
 
 
