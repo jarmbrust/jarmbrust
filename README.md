@@ -17,7 +17,7 @@
   
 - 👯 I’m looking to collaborate, and currently poking around for interesting open-source projects to help out with!
 
-- 📫 How to reach me: I have an email that is a com, with my name, at the repo's name.
+- 📫 How to reach me:  **[LinkedIn](https://www.linkedin.com/in/jamesarmbrust/),
 
 - ⚡ Fun fact: I am an avid fan of TTRPGs (including, but not limited to, Dungeons & Dragons), and have run games in them for small groups since I was in junior highschool (about 12 years old, give or take). This means I have been running games for a _lot_ longer than I have not!
 
