@@ -18,10 +18,10 @@
 ---
 
 ## 👽 About Me
-I am a software engineer who came to computer science through studying philosophy and history, as I love the logic it works within, and understand (as best as I can) how computer technology is interwoven throughout and fully a part of the human experience.
-- **Technical Foundations**: Over 10 years of frontend and full-stack development experience as an IC pr team lead in teams of size 1 to 20
-- **Communication**: With a depth of experience, I can communicate with people of a variety of technical backgrounds. 
-- **Stacks**: TypeScript, React, Vue, NodeJS, Python, Ruby on Rails, PostgreSQL, SQL Server, T-SQL, jQuery, Java, C#/.NET, LESS, Sass, HTML5, and CSS3.
+
+I am a software engineer who oddly came to computer science through studying philosophy and history. I love logical patterns and processes, and I cognizant of the ever increasing interwoven nature of computer technology in regards to the human experience, both in its 
+- **Technical Foundations**: In my over 12 years of software engineering experience I have contributed value as either an IC or lead in teams of sizes from 1 to 20, most recently as a frontend software engineer, but I have also built as a full-stack software engineer and as a SQL developer.
+- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've focused on my ability to communicate with team members, product owners, and so on, from across a wide variety of technical backgrounds. I do this for those with less background in the technical details by breaking down concepts and explaining them in clear, and if necessary, non-technical ways.
 
 ---
 
