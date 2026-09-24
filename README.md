@@ -9,7 +9,7 @@
       <img src="assets/ash-portrate.jpeg" alt="Ash the Cat" width="100" height="100" />
     </td>
     <td>
-      I am a software engineer, aspiring writer, occasional artist, habitual philosopher, amateur historian, and full-time animal lover!
+      I am a software engineer, aspiring writer, occasional artist, habitual philosopher, amateur historian, and pet-parent to two old dogs, and three odd cats.
     </td>
   </tr>
 </table>
