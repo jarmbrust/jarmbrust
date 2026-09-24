@@ -25,6 +25,11 @@ I am a software engineer who came to computer science through studying philosoph
 
 ---
 
+## My Tech Stack
+![html5-css-javascript-react-tailwindcss-vue-scss-typescript-python-nodejs-docker-vite-vitest-playwright](https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss%2Cjavascript%2Creact%2Ctailwindcss%2Cvue%2Cscss%2Ctypescript%2Cpython%2Cnodejs%2Cdocker%2Cvite%2Cvitest%2Cplaywright&size=46&link=)
+
+---
+
 ## How to Reach Me
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
 - 🌐 My personal website has contact information as well: [Coming Soon]
