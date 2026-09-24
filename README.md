@@ -26,8 +26,8 @@ I am a software engineer who came to computer science through studying philosoph
 ---
 
 ## My Tech Stack
-![html5-css-javascript-react-tailwindcss-vue-scss-typescript-python-nodejs-docker-vite-vitest-playwright](https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss%2Cjavascript%2Creact%2Ctailwindcss%2Cvue%2Cscss%2Ctypescript%2Cpython%2Cnodejs%2Cdocker%2Cvite%2Cvitest%2Cplaywright&size=46&link=)
-
+![JavaScript](https://www.readmecodegen.com/api/social-icon?name=javascript)
+![Python](https://www.readmecodegen.com/api/social-icon?name=python)
 ---
 
 ## How to Reach Me
