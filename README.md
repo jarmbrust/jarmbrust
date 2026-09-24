@@ -32,4 +32,5 @@ I am a software engineer who came to computer science through studying philosoph
 
 ## How to Reach Me
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
+- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
 - 🌐 My personal website has contact information as well: [Coming Soon]
