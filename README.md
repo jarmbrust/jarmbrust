@@ -64,8 +64,8 @@ I am a software engineer who oddly came to computer science through studying phi
 
 ---
 
-## How to Reach Me
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
-- ![https://www.linkedin.com/in/jamesarmbrust/](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
+## 📫 How to Reach Me
+- ![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16)[My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
+-  [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
 
 - 🌐 My personal website has contact information as well: [Coming Soon]
