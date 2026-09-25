@@ -37,12 +37,10 @@ I am a software engineer who oddly came to computer science through studying phi
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
 <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-<img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /> 
+<img src="https://img.shields.io/badge/Claud Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claud Code" /> 
 <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
 <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 
 
 **I am also experienced with:**
@@ -68,6 +66,6 @@ I am a software engineer who oddly came to computer science through studying phi
 
 ## How to Reach Me
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
-- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
+- ![https://www.linkedin.com/in/jamesarmbrust/](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
 
 - 🌐 My personal website has contact information as well: [Coming Soon]
