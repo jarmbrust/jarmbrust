@@ -36,21 +36,26 @@ I am a software engineer who oddly came to computer science through studying phi
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
-**Also experienced with:**
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+**I am also experienced with:**
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+<img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Vitest-00FF74?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+<img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 
 ---
 
 ## How to Reach Me
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
-- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
+- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
 - 🌐 My personal website has contact information as well: [Coming Soon]
