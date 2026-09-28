@@ -9,7 +9,7 @@
       <img src="assets/ash-portrate.jpeg" alt="Ash the Cat" width="100" height="100" />
     </td>
     <td>
-      I am a software engineer, aspiring writer, occasional artist, habitual philosopher, amateur historian, and story-teller. I live with my wife and our two old dogs, and three odd cats.
+      I am a curious software engineer, aspiring writer, occasional artist, habitual philosopher, amateur historian, and story-teller. I live with my wife and our two old dogs, and three odd cats.
     </td>
   </tr>
 </table>
@@ -19,7 +19,7 @@
 
 ## 👽 About Me
 
-I am a curious software engineer who oddly came to computer science through studying philosophy and history. I love logical patterns and processes, and I cognizant of the ever increasing interwoven nature of computer technology in regards to the human experience, both in its 
+I am a software engineer who oddly came to computer science through studying philosophy and history. I love logical patterns and processes, and I cognizant of the ever increasing interwoven nature of computer technology in regards to the human experience, both in its 
 - **Technical Foundations**: In my over 12 years of software engineering experience I have contributed value as either an IC or lead in teams of sizes from 1 to 20, most recently as a frontend software engineer, but I have also built as a full-stack software engineer and as a SQL developer.
 - **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've focused on my ability to communicate with team members, product owners, and so on, from across a wide variety of technical backgrounds. I do this for those with less background in the technical details by breaking down concepts and explaining them in clear, and if necessary, non-technical ways.
 
