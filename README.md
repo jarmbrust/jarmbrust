@@ -19,7 +19,7 @@
 
 ## 👽 About Me
 
-I am a software engineer who oddly came to computer science through studying philosophy and history. I love logical patterns and processes, and I cognizant of the ever increasing interwoven nature of computer technology in regards to the human experience, both in its 
+I am a software engineer with a passion for, and fascination with AI-Native coding, and I am using it to expand and deepen my design and development knowledge and production while placing guardrails for security and safty. I love logical patterns and processes, and I cognizant of the ever increasing interwoven nature of computer technology in regards to the human experience, both in its 
 - **Technical Foundations**: In my over 12 years of software engineering experience I have contributed value as either an IC or lead in teams of sizes from 1 to 20, most recently as a frontend software engineer, but I have also built as a full-stack software engineer and as a SQL developer.
 - **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've focused on my ability to communicate with team members, product owners, and so on, from across a wide variety of technical backgrounds. I do this for those with less background in the technical details by breaking down concepts and explaining them in clear, and if necessary, non-technical ways.
 
