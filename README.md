@@ -25,7 +25,7 @@ Recently I've been doing a deep-dive to strengthen my knowledge of AI-Native dev
 
 ##### A quick summary of my background:
 - **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value, and deployed software in the role of a full-stack, or frontend, software engineer, as an individual contributor or lead in teams ranging from around 1 to 12 engineers. I define myself as a full-stack generalist who prioritizes the human experience through the security, stability, and speed of deployed software.
-- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've leaned into my track-record of continuous two-way communication with team members, product owners, and others across a wide variety of technical backgrounds, to build empathy, understanding, and technical know-how in developing quality solutions that stand the test of time.
+- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've leaned into my track-record of continuous two-way communication with team members, product owners, and others across a wide variety of technical backgrounds, to build empathy, understanding, and technical know-how so we can deploy quality solutions that stand the test of time.
 
 ---
 
