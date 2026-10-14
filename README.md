@@ -19,7 +19,9 @@
 
 ## 👽 About Me
 
-I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. Recently I've worked to expand and deepen my knowledge of AI-Native development to modernize and greatly improve my productivity and turn-around; while utilizing guardrails and specification for security, safety, and quality of generated code.
+I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. 
+
+Recently I've been doing a deep-dive to strengthen my knowledge of AI-Native development and methodologies in order to both modernize, and greatly improve my productivity and turn-around. That said, I am a firm believer that focus on AI must not be heavily focused on the volume and development churn-rate of AI-Native software development, but must focus first on the utilization of guardrails, clear specifications, and careful review of generated code for the security, safety, and quality of the software.
 
 ##### A quick summary of my background:
 - **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value an deployed software as either a full-stack or frontend software engineer IC or lead in teams of 1 to around 12 engineers.
