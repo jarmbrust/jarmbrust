@@ -19,7 +19,8 @@
 
 ## 👽 About Me
 
-I am a software engineer with a passion for creating software that is useful to the lives of others, and a fascination with the progression of technology and how coding has changed over the years. With a background in both history and logic, I love digging into the logical patterns and processes, always mindful of the ever increasing interwoven nature of computer technology in regards to the human experience. Currently, I am using it to expand and deepen my knowledge and productivity, while utilizing guardrails for security and safety, and reviewing generated code. A quick summary of my background:
+I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. Recently I've worked to expand and deepen my knowledge of AI-Native development, to greatly improve productivity and turn-around, while utilizing guardrails and specification for security, safety, and quality of generated code.
+A quick summary of my background:
 - **Technical Foundations**: In my over 12 years of software engineering experience, where I have contributed value as either an IC or lead in teams of 1 to 15 software engineers, and as a full-stack or frontend software engineer.
 - **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've focused on my ability to communicate with team members, product owners, and so on, from across a wide variety of technical backgrounds. I do this for those with less background in the technical details by breaking down concepts and explaining them in clear, and if necessary, non-technical ways.
 
@@ -43,7 +44,7 @@ I am a software engineer with a passion for creating software that is useful to 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 
-**My previous experience includes:**
+**Previous experience includes:**
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
