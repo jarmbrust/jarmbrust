@@ -19,13 +19,20 @@
 
 ## 🤓 About Me
 
-I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. 
+I am a fullstack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. 
 
 Recently I've been doing a deep-dive to strengthen my knowledge of AI-Native development and methodologies in order to both modernize, and greatly improve my productivity and turn-around. That said, I am a firm believer that focus on AI must not be heavily focused on the volume and development churn-rate of AI-Native software development, but must focus first on the utilization of guardrails, clear specifications, and careful review of generated code for the security, safety, and quality of the software.
 
-##### A quick summary of my background:
-- **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value, and deployed software in the role of a full-stack, or frontend, software engineer, as an individual contributor or lead in teams ranging from around 1 to 12 engineers. I define myself as a full-stack generalist who prioritizes the human experience through the security, stability, and speed of deployed software.
+### 💾 Background Summary:
+- **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value, and deployed software in the role of a fullstack, or frontend, software engineer, as an individual contributor or lead in teams ranging from around 1 to 12 engineers. I define myself as a fullstack generalist who prioritizes the human experience through the security, stability, and speed of deployed software. 
 - **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've leaned into my track-record of continuous two-way communication with team members, product owners, and others across a wide variety of technical backgrounds, to build empathy, understanding, and technical know-how so we can deploy quality solutions that stand the test of time.
+
+### 👽 Goals and Drives
+- **Technical Focus**: I mentioned above my background is that of a fullstack generalist. In my career, my endless curiosity leads me in exploring a variety technologies and ideas. ***This is a feature, not a bug***. Depth of knowledge in a specific technology, stack, or methodology is often essential and I am not trying to undersell that! However, most developers with a bedrock of solid foundational principles can build the necessary skill-set up fairly quickly.
+> *A solid foundation empowers the engineer to quickly adapt and pivot as needed, and this is almost always more valuable to a team than a developer with many years focused narrowly on a singular stack.*
+- **Career Focus**: Titles and levels are not important to me when they are there primarily for prestige or "rank". When reviewing possible companies and roles, I am far, far more focused on who my teammates and collaborators are, the culture of our organization, and whom we build and deploy for, than I am the title. That said, and prestige aside, I love when places provide opportunities for growth into greater levels of impact and leadership.
+- **Open for New Opportunities**: ***As of this writing, I seek a mid or senior fullstack or frontend software engineering role. While mostly focused on remote, I am open to hybrid opportunities in the NC triad, Charlotte, or possibility triangle-park areas. I am open for direct-hire, contract-to-hire, or short-term contracting.***
+- **Career Goals**: I plan to advance into a more staff, principle, or architectural role over the next several years, and my background includes experience in mentoring peers and leading teams. As stated above, I not interested in the prestige of a role, but where I can make the best impact.
 
 ---
 
