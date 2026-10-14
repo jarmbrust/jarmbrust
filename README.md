@@ -21,7 +21,7 @@
 
 I am a fullstack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. 
 
-Recently I've begun a deep-dive into AI-Native development and it's methodologies in order to both modernize and diversify what is available to me while building software. Somewhat surprisingly, I found that I enjoy the increased focus on concepts and foundations over syntax and frameworks. That said, I firmly believe AI-development must be done in a way that increases quality, usability, maintainability, and security of the deployed app, and not heavily weighted instead towards code volume or deployment churn-rate.
+Recently I've begun a deep-dive into AI-Native development and its methodologies in order to both modernize and diversify what is available to me while building software. Somewhat surprisingly, I found that I enjoy the increased focus on concepts and foundations over syntax and frameworks. That said, I firmly believe AI-development must be done in a way that increases quality, usability, maintainability, and security of the deployed app, and not heavily weighted instead towards code volume or deployment churn-rate.
 
 ### 💻 Open to New Opportunities
 - **As of this writing (October 2026)**: I'm seeking a mid or senior fullstack or frontend software engineering role. While I am mostly focused on *remote* opportunities, I am open to hybrid roles in the NC triad, Charlotte, or possibility triangle-park areas. I am available for direct-hire, contract-to-hire, or short-term contracting.
@@ -50,12 +50,12 @@ Recently I've begun a deep-dive into AI-Native development and it's methodologie
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
     <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-    <img src="https://img.shields.io/badge/Claud Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claud Code" /> 
+    <img src="https://img.shields.io/badge/ClaudeCode-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claud Code" /> 
     <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
     <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <dd>
-<dl>
+  </dd>
+</dl>
 
 ### Previous experience includes:
 <dl>
@@ -75,8 +75,10 @@ Recently I've begun a deep-dive into AI-Native development and it's methodologie
     <img src="https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
     <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" />
-  <dd>
-<dl>
+  </dd>
+</dl>
+
+---
 
 
 ## 📫 How to Reach Me
