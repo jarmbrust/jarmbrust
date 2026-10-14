@@ -78,8 +78,11 @@ Recently I've begun a deep-dive into AI-Native development and it's methodologie
   <dd>
 <dl>
 
----
 
 ## 📫 How to Reach Me
-- ![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) [My LinkedIn](https://www.linkedin.com/in/jamesarmbrust/)
-- 🌐 My personal website has contact information as well: [Coming Soon]
+
+### ![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24) LinkedIn
+- [My LinkedIn Profile](https://www.linkedin.com/in/jamesarmbrust/)
+
+### 🌐 My Website
+- Also has a built-in way to contact me: 🚧 *Down for maintenance, Coming Soon*
