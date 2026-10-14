@@ -24,8 +24,8 @@ I am a full-stack engineer with a passion for creating software that is useful t
 Recently I've been doing a deep-dive to strengthen my knowledge of AI-Native development and methodologies in order to both modernize, and greatly improve my productivity and turn-around. That said, I am a firm believer that focus on AI must not be heavily focused on the volume and development churn-rate of AI-Native software development, but must focus first on the utilization of guardrails, clear specifications, and careful review of generated code for the security, safety, and quality of the software.
 
 ##### A quick summary of my background:
-- **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value an deployed software as either a full-stack or frontend software engineer IC or lead in teams of 1 to around 12 engineers.
-- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've always relied on my ability to communicate with team members, product owners, and others across a wide variety of technical backgrounds, to build collaboration and flow across projects and teams.
+- **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value, and deployed software in the role of a full-stack, or frontend, software engineer, as an individual contributor or lead in teams ranging from around 1 to 12 engineers. I define myself as a full-stack generalist who prioritizes the human experience through the security, stability, and speed of deployed software.
+- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've leaned into my track-record of continuous two-way communication with team members, product owners, and others across a wide variety of technical backgrounds, to build empathy, understanding, and technical know-how in developing quality solutions that stand the test of time.
 
 ---
 
