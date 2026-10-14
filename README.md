@@ -19,10 +19,11 @@
 
 ## 👽 About Me
 
-I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. Recently I've worked to expand and deepen my knowledge of AI-Native development, to greatly improve productivity and turn-around, while utilizing guardrails and specification for security, safety, and quality of generated code.
-A quick summary of my background:
-- **Technical Foundations**: In my over 12 years of software engineering experience, where I have contributed value as either an IC or lead in teams of 1 to 15 software engineers, and as a full-stack or frontend software engineer.
-- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've focused on my ability to communicate with team members, product owners, and so on, from across a wide variety of technical backgrounds. I do this for those with less background in the technical details by breaking down concepts and explaining them in clear, and if necessary, non-technical ways.
+I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. Recently I've worked to expand and deepen my knowledge of AI-Native development to modernize and greatly improve my productivity and turn-around; while utilizing guardrails and specification for security, safety, and quality of generated code.
+
+##### A quick summary of my background:
+- **Technical Foundations**: In my over 12 years of software engineering experience I've contributed value an deployed software as either a full-stack or frontend software engineer IC or lead in teams of 1 to around 12 engineers.
+- **Communication and Building Relationships**: With a depth of experience across roles and disciplines, I've always relied on my ability to communicate with team members, product owners, and others across a wide variety of technical backgrounds, to build collaboration and flow across projects and teams.
 
 ---
 
