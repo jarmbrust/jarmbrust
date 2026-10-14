@@ -17,7 +17,7 @@
 
 ---
 
-## 👽 About Me
+## 🤓 About Me
 
 I am a full-stack engineer with a passion for creating software that is useful to the lives of others, curiosity on how to make the interaction between people and software less frictional and more approachable for all, and a fascination with the progression of technology and how coding has changed over the years. With a background in history and computer science, I love digging into logical patterns and processes, always mindful of the human experience. 
 
