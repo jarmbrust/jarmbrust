@@ -31,8 +31,10 @@ Recently I've been doing a deep-dive to strengthen my knowledge of AI-Native dev
 - **Technical Focus**: I mentioned above my background is that of a fullstack generalist. In my career, my endless curiosity leads me in exploring a variety technologies and ideas. ***This is a feature, not a bug***. Depth of knowledge in a specific technology, stack, or methodology is often essential and I am not trying to undersell that! However, most developers with a bedrock of solid foundational principles can build the necessary skill-set up fairly quickly.
 > *A solid foundation empowers the engineer to quickly adapt and pivot as needed, and this is almost always more valuable to a team than a developer with many years focused narrowly on a singular stack.*
 - **Career Focus**: Titles and levels are not important to me when they are there primarily for prestige or "rank". When reviewing possible companies and roles, I am far, far more focused on who my teammates and collaborators are, the culture of our organization, and whom we build and deploy for, than I am the title. That said, and prestige aside, I love when places provide opportunities for growth into greater levels of impact and leadership.
-- **Open for New Opportunities**: ***As of this writing, I seek a mid or senior fullstack or frontend software engineering role. While I am mostly focused on remote opportunities, I am open to hybrid roles in the NC triad, Charlotte, or possibility triangle-park areas. I am open for direct-hire, contract-to-hire, or short-term contracting.***
 - **Career Goals**: I intend to advance into a more staff, principle, or architectural role over the next several years, and my background includes experience in mentoring peers and leading teams. As stated above, I not interested in the prestige of a role, but where I can make the greatest positive impact.
+
+### 💻 Open to New Opportunities
+- **As of this writing (October 2026)**: I'm seeking a mid or senior fullstack or frontend software engineering role. While I am mostly focused on *remote* opportunities, I am open to hybrid roles in the NC triad, Charlotte, or possibility triangle-park areas. I am available for direct-hire, contract-to-hire, or short-term contracting.
 
 ---
 
