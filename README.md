@@ -51,7 +51,6 @@ Recently I've begun a deep-dive into AI-Native development and its methodologies
     <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
     <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
     <img src="https://img.shields.io/badge/ClaudeCode-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claud Code" /> 
-    <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
     <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   </dd>
@@ -70,11 +69,6 @@ Recently I've begun a deep-dive into AI-Native development and its methodologies
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
     <img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/Vitest-00FF74?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-    <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-    <img src="https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
-    <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" />
   </dd>
 </dl>
 
