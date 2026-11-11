@@ -53,7 +53,7 @@ Recently I've begun a deep-dive into AI-Native development and its methodologies
   </dd>
 </dl>
 
-### Previous experience includes:
+### Recent experience includes:
 <dl>
   <dd>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
